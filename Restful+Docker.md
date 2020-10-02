@@ -171,16 +171,16 @@
 
    - GET请求查看现有数据：
 
-     ![GET](https://github.com/WarmLemontree/restful-docker/tree/master/Restful%2BDocker.assets/Restful+Docker.assets/Restful+Docker.assets/GET.PNG)
+     ![GET](https://github.com/WarmLemontree/restful-docker/blob/master/Restful%2BDocker.assets/GET.PNG)
 
    - POST提交数据：
 
-     ![POST](https://github.com/WarmLemontree/restful-docker/tree/master/Restful%2BDocker.assets/Restful+Docker.assets/Restful+Docker.assets/POST.PNG)
+     ![POST](https://github.com/WarmLemontree/restful-docker/blob/master/Restful%2BDocker.assets/POST.PNG)
 
    - PUT修改数据：
 
-     ![PUT](https://github.com/WarmLemontree/restful-docker/tree/master/Restful%2BDocker.assets/Restful+Docker.assets/Restful+Docker.assets/PUT.PNG)
+     ![PUT](https://github.com/WarmLemontree/restful-docker/blob/master/Restful%2BDocker.assets/PUT.PNG)
 
    - DELETE删除数据：
 
-     ![DELETE](https://github.com/WarmLemontree/restful-docker/tree/master/Restful%2BDocker.assets/Restful+Docker.assets/Restful+Docker.assets/DELETE.PNG)
+     ![DELETE](https://github.com/WarmLemontree/restful-docker/blob/master/Restful%2BDocker.assets/DELETE.PNG)
