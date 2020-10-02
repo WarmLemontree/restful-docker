@@ -72,7 +72,7 @@
 
    Navicat操作云服务器上的数据库如图：
 
-   ![](https://github.com/WarmLemontree/restful-docker/tree/master/Restful%2BDocker.assets/数据库显示.png)
+   ![](https://github.com/WarmLemontree/restful-docker/blob/master/Restful%2BDocker.assets/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%98%BE%E7%A4%BA.png)
 
 
 
