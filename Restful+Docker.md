@@ -72,7 +72,7 @@
 
    Navicat操作云服务器上的数据库如图：
 
-   ![](课程实践二：Restful+Docker.assets/数据库显示.png)
+   ![](Restful+Docker.assets/数据库显示.png)
 
 
 
@@ -149,7 +149,7 @@
 
      - docker images：查看现有docker容器中镜像
 
-       ![](课程实践二：Restful+Docker.assets/docker配置2.png)
+       ![](Restful+Docker.assets/docker配置2.png)
 
      - 运行springboot项目镜像：
 
@@ -157,11 +157,11 @@
        docker run -d --name javaboy -p 8080:8080 javaboy/项目名称
        ```
 
-       ![](课程实践二：Restful+Docker.assets/docker运行项目.png)
+       ![](Restful+Docker.assets/docker运行项目.png)
 
      - docker ps：查看docker中现在运行的进程
 
-       ![](课程实践二：Restful+Docker.assets/查看docker现有项目.png)
+       ![](Restful+Docker.assets/查看docker现有项目.png)
 
      
 
@@ -171,16 +171,16 @@
 
    - GET请求查看现有数据：
 
-     ![](课程实践二：Restful+Docker.assets/GET.PNG)
+     ![](Restful+Docker.assets/GET.PNG)
 
    - POST提交数据：
 
-     ![](课程实践二：Restful+Docker.assets/POST.PNG)
+     ![](Restful+Docker.assets/POST.PNG)
 
    - PUT修改数据：
 
-     ![](课程实践二：Restful+Docker.assets/PUT.PNG)
+     ![](Restful+Docker.assets/PUT.PNG)
 
    - DELETE删除数据：
 
-     ![](课程实践二：Restful+Docker.assets/DELETE.PNG)
+     ![](Restful+Docker.assets/DELETE.PNG)
